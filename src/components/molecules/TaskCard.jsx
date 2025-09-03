@@ -5,7 +5,7 @@ import Button from "@/components/atoms/Button";
 import StatusPill from "@/components/molecules/StatusPill";
 import ApperIcon from "@/components/ApperIcon";
 import { format } from "date-fns";
-import { cn } from "@/lib/utils";
+import { cn } from "@/utils/cn";
 const TaskCard = ({ task, onStatusChange, onEdit, onDelete }) => {
   const handleStatusToggle = () => {
     const newStatus = task.status === "completed" ? "todo" : "completed";

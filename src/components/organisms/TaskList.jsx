@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import { cn } from "@/lib/utils";
+import { cn } from "@/utils/cn";
 import Button from "@/components/atoms/Button";
 import Select from "@/components/atoms/Select";
 import TaskCard from "@/components/molecules/TaskCard";
