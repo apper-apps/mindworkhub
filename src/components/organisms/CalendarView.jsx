@@ -4,7 +4,7 @@ import Button from "@/components/atoms/Button";
 import Card from "@/components/atoms/Card";
 import CalendarEvent from "@/components/molecules/CalendarEvent";
 import ApperIcon from "@/components/ApperIcon";
-import { cn } from "@/lib/utils";
+import { cn } from "@/utils/cn";
 import { addWeeks, eachDayOfInterval, endOfWeek, format, isSameDay, isToday, startOfWeek, subWeeks } from "date-fns";
 const CalendarView = ({ events = [], employees = [] }) => {
   const [currentDate, setCurrentDate] = useState(new Date());

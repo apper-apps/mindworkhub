@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { cn } from "@/lib/utils";
+import { cn } from "@/utils/cn";
 import Card from "@/components/atoms/Card";
 import AvatarCluster from "@/components/molecules/AvatarCluster";
 import ApperIcon from "@/components/ApperIcon";
