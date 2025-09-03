@@ -344,7 +344,6 @@ class AnnouncementService {
     } catch (error) {
       console.error("Error fetching announcements by category:", error);
       return [];
-    }
 }
   }
 }
