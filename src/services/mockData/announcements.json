@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 1,
+    "title": "New Office Hours Policy",
+    "content": "Starting next week, we're implementing flexible office hours. Core hours will be 10 AM to 3 PM, with flexibility for early birds and night owls to adjust their schedules accordingly. This change aims to improve work-life balance while maintaining team collaboration during core hours.",
+    "author": "Lisa Thompson",
+    "date": "2024-01-12T09:00:00.000Z",
+    "category": "hr",
+    "isRead": false
+  },
+  {
+    "Id": 2,
+    "title": "Q4 Results and Company Performance",
+    "content": "We're excited to share that we exceeded our Q4 targets by 15%! This success is a direct result of everyone's hard work and dedication. Revenue reached $2.4M, and we've signed 12 new enterprise clients. Thank you all for making this possible.",
+    "author": "Robert Johnson",
+    "date": "2024-01-11T14:30:00.000Z",
+    "category": "general",
+    "isRead": true
+  },
+  {
+    "Id": 3,
+    "title": "Security Update Required",
+    "content": "IT Security requires all employees to update their passwords and enable two-factor authentication by January 15th. This is part of our ongoing effort to maintain the highest security standards. Please check your email for detailed instructions.",
+    "author": "Thomas Anderson",
+    "date": "2024-01-10T11:15:00.000Z",
+    "category": "tech",
+    "isRead": false
+  },
+  {
+    "Id": 4,
+    "title": "Team Building Event - January 25th",
+    "content": "Save the date! We're hosting a team building event on January 25th at the downtown bowling alley from 6-9 PM. Food and drinks will be provided. This is a great opportunity to connect with colleagues from different departments in a relaxed setting.",
+    "author": "Emily Rodriguez",
+    "date": "2024-01-09T16:45:00.000Z",
+    "category": "social",
+    "isRead": true
+  },
+  {
+    "Id": 5,
+    "title": "New Employee Benefits Package",
+    "content": "We're pleased to announce enhancements to our benefits package effective February 1st. This includes increased health coverage, additional PTO days, and a new professional development fund. HR will be hosting information sessions next week to explain all the changes.",
+    "author": "Lisa Thompson",
+    "date": "2024-01-08T13:20:00.000Z",
+    "category": "hr",
+    "isRead": false
+  },
+  {
+    "Id": 6,
+    "title": "System Maintenance - Weekend Downtime",
+    "content": "Our internal systems will undergo scheduled maintenance this Saturday from 2 AM to 6 AM. During this time, some services may be temporarily unavailable. We apologize for any inconvenience and appreciate your understanding.",
+    "author": "David Kim",
+    "date": "2024-01-11T10:00:00.000Z",
+    "category": "tech",
+    "isRead": true
+  },
+  {
+    "Id": 7,
+    "title": "Quarterly Budget Review Meeting",
+    "content": "All department heads are required to attend the quarterly budget review meeting on January 20th at 2 PM in Conference Room A. Please come prepared with your Q1 budget proposals and Q4 expense reports.",
+    "author": "Amanda Davis",
+    "date": "2024-01-10T15:30:00.000Z",
+    "category": "finance",
+    "isRead": false
+  },
+  {
+    "Id": 8,
+    "title": "Welcome New Team Members",
+    "content": "Please join me in welcoming our three new team members: Alex Chen (Software Engineer), Maria Santos (Marketing Coordinator), and Jason Park (Product Designer). They'll be starting on January 22nd. Let's make sure to give them a warm welcome!",
+    "author": "Lisa Thompson",
+    "date": "2024-01-12T12:00:00.000Z",
+    "category": "general",
+    "isRead": false
+  },
+  {
+    "Id": 9,
+    "title": "Holiday Schedule Reminder",
+    "content": "A quick reminder about upcoming holidays: Martin Luther King Jr. Day (January 15th) and Presidents' Day (February 19th) are company holidays. The office will be closed, and no meetings should be scheduled on these dates.",
+    "author": "Lisa Thompson",
+    "date": "2024-01-07T14:15:00.000Z",
+    "category": "general",
+    "isRead": true
+  },
+  {
+    "Id": 10,
+    "title": "Project Alpha Launch Success",
+    "content": "Congratulations to the Project Alpha team for the successful product launch! The initial user feedback has been overwhelmingly positive, with a 92% satisfaction rate. This is a testament to months of hard work and collaboration across multiple departments.",
+    "author": "Sarah Wilson",
+    "date": "2024-01-11T17:00:00.000Z",
+    "category": "general",
+    "isRead": true
+  },
+  {
+    "Id": 11,
+    "title": "Parking Lot Construction Update",
+    "content": "The parking lot renovation will begin on January 29th and is expected to take 2 weeks. During this time, please use the temporary parking area behind the building. Shuttle service to the main entrance will be provided every 15 minutes.",
+    "author": "Facilities Management",
+    "date": "2024-01-12T08:45:00.000Z",
+    "category": "general",
+    "isRead": false
+  },
+  {
+    "Id": 12,
+    "title": "Performance Review Cycle Begins",
+    "content": "The annual performance review cycle begins February 1st. Managers should schedule review meetings with their team members by February 15th. Self-evaluation forms will be available in the HR portal starting next week. Please reach out to HR with any questions.",
+    "author": "Lisa Thompson",
+    "date": "2024-01-09T11:30:00.000Z",
+    "category": "hr",
+    "isRead": false
+  }
+]

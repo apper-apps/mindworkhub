@@ -1,0 +1,137 @@
+[
+  {
+    "Id": 1,
+    "title": "Team Standup",
+    "type": "meeting",
+    "startTime": "2024-01-15T09:00:00.000Z",
+    "endTime": "2024-01-15T09:30:00.000Z",
+    "location": "Conference Room A",
+    "attendees": [1, 2, 5, 9]
+  },
+  {
+    "Id": 2,
+    "title": "Product Planning Session",
+    "type": "meeting",
+    "startTime": "2024-01-15T14:00:00.000Z",
+    "endTime": "2024-01-15T16:00:00.000Z",
+    "location": "Conference Room B",
+    "attendees": [2, 3, 4, 7]
+  },
+  {
+    "Id": 3,
+    "title": "Client Demo Call",
+    "type": "call",
+    "startTime": "2024-01-15T16:30:00.000Z",
+    "endTime": "2024-01-15T17:30:00.000Z",
+    "location": "Virtual - Zoom",
+    "attendees": [2, 4, 7]
+  },
+  {
+    "Id": 4,
+    "title": "Design Review",
+    "type": "meeting",
+    "startTime": "2024-01-16T10:00:00.000Z",
+    "endTime": "2024-01-16T11:30:00.000Z",
+    "location": "Design Studio",
+    "attendees": [3, 12, 2]
+  },
+  {
+    "Id": 5,
+    "title": "Engineering All-Hands",
+    "type": "meeting",
+    "startTime": "2024-01-16T15:00:00.000Z",
+    "endTime": "2024-01-16T16:00:00.000Z",
+    "location": "Main Auditorium",
+    "attendees": [1, 5, 9, 11]
+  },
+  {
+    "Id": 6,
+    "title": "Budget Review",
+    "type": "meeting",
+    "startTime": "2024-01-17T11:00:00.000Z",
+    "endTime": "2024-01-17T12:30:00.000Z",
+    "location": "Conference Room C",
+    "attendees": [8, 6, 7]
+  },
+  {
+    "Id": 7,
+    "title": "Training: Security Best Practices",
+    "type": "training",
+    "startTime": "2024-01-17T13:00:00.000Z",
+    "endTime": "2024-01-17T14:30:00.000Z",
+    "location": "Training Room",
+    "attendees": [1, 2, 3, 4, 5, 9, 11]
+  },
+  {
+    "Id": 8,
+    "title": "One-on-One with Sarah",
+    "type": "meeting",
+    "startTime": "2024-01-18T09:30:00.000Z",
+    "endTime": "2024-01-18T10:30:00.000Z",
+    "location": "Sarah's Office",
+    "attendees": [1, 2]
+  },
+  {
+    "Id": 9,
+    "title": "Marketing Strategy Session",
+    "type": "meeting",
+    "startTime": "2024-01-18T14:00:00.000Z",
+    "endTime": "2024-01-18T15:30:00.000Z",
+    "location": "Marketing Conference Room",
+    "attendees": [4, 10, 7]
+  },
+  {
+    "Id": 10,
+    "title": "Project Deadline",
+    "type": "deadline",
+    "startTime": "2024-01-19T17:00:00.000Z",
+    "endTime": "2024-01-19T17:00:00.000Z",
+    "location": "N/A",
+    "attendees": [1, 2, 5]
+  },
+  {
+    "Id": 11,
+    "title": "Weekly Team Lunch",
+    "type": "social",
+    "startTime": "2024-01-19T12:00:00.000Z",
+    "endTime": "2024-01-19T13:00:00.000Z",
+    "location": "Cafeteria",
+    "attendees": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  },
+  {
+    "Id": 12,
+    "title": "Code Review Session",
+    "type": "meeting",
+    "startTime": "2024-01-22T10:00:00.000Z",
+    "endTime": "2024-01-22T11:00:00.000Z",
+    "location": "Dev Room",
+    "attendees": [1, 5, 9, 11]
+  },
+  {
+    "Id": 13,
+    "title": "HR Policy Update Presentation",
+    "type": "presentation",
+    "startTime": "2024-01-22T15:00:00.000Z",
+    "endTime": "2024-01-22T16:00:00.000Z",
+    "location": "Main Conference Room",
+    "attendees": [6, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12]
+  },
+  {
+    "Id": 14,
+    "title": "Client Check-in Call",
+    "type": "call",
+    "startTime": "2024-01-23T11:00:00.000Z",
+    "endTime": "2024-01-23T11:30:00.000Z",
+    "location": "Virtual - Teams",
+    "attendees": [7, 2, 4]
+  },
+  {
+    "Id": 15,
+    "title": "QA Testing Review",
+    "type": "meeting",
+    "startTime": "2024-01-23T14:00:00.000Z",
+    "endTime": "2024-01-23T15:00:00.000Z",
+    "location": "QA Lab",
+    "attendees": [9, 1, 5]
+  }
+]

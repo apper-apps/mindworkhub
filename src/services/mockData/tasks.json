@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "title": "Complete project proposal",
+    "description": "Finalize the Q4 project proposal document and submit for review. Include budget estimates and timeline.",
+    "assigneeId": "1",
+    "priority": "high",
+    "status": "in_progress",
+    "dueDate": "2024-01-15T17:00:00.000Z",
+    "createdAt": "2024-01-08T09:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "title": "Review design mockups",
+    "description": "Review the latest design mockups for the mobile app interface and provide feedback to the design team.",
+    "assigneeId": "2",
+    "priority": "medium",
+    "status": "todo",
+    "dueDate": "2024-01-14T12:00:00.000Z",
+    "createdAt": "2024-01-10T10:30:00.000Z"
+  },
+  {
+    "Id": 3,
+    "title": "Update team documentation",
+    "description": "Update the team wiki with new processes and procedures. Ensure all sections are current and accurate.",
+    "assigneeId": "1",
+    "priority": "low",
+    "status": "completed",
+    "dueDate": "2024-01-12T16:00:00.000Z",
+    "createdAt": "2024-01-05T14:15:00.000Z"
+  },
+  {
+    "Id": 4,
+    "title": "Prepare quarterly report",
+    "description": "Compile and analyze data for the Q4 quarterly performance report. Include metrics and recommendations.",
+    "assigneeId": "3",
+    "priority": "high",
+    "status": "in_progress",
+    "dueDate": "2024-01-16T14:00:00.000Z",
+    "createdAt": "2024-01-09T11:00:00.000Z"
+  },
+  {
+    "Id": 5,
+    "title": "Client meeting preparation",
+    "description": "Prepare presentation materials and agenda for the upcoming client meeting on Friday.",
+    "assigneeId": "4",
+    "priority": "medium",
+    "status": "todo",
+    "dueDate": "2024-01-19T09:00:00.000Z",
+    "createdAt": "2024-01-11T15:30:00.000Z"
+  },
+  {
+    "Id": 6,
+    "title": "Code review - Payment module",
+    "description": "Conduct thorough code review of the new payment processing module before deployment.",
+    "assigneeId": "5",
+    "priority": "high",
+    "status": "todo",
+    "dueDate": "2024-01-13T11:00:00.000Z",
+    "createdAt": "2024-01-10T08:45:00.000Z"
+  },
+  {
+    "Id": 7,
+    "title": "Employee onboarding checklist",
+    "description": "Complete onboarding process for new team members joining next week. Prepare welcome package.",
+    "assigneeId": "6",
+    "priority": "medium",
+    "status": "in_progress",
+    "dueDate": "2024-01-17T16:00:00.000Z",
+    "createdAt": "2024-01-08T13:20:00.000Z"
+  },
+  {
+    "Id": 8,
+    "title": "Database optimization",
+    "description": "Optimize database queries for improved performance. Focus on slow-running reports and dashboards.",
+    "assigneeId": "1",
+    "priority": "medium",
+    "status": "todo",
+    "dueDate": "2024-01-20T15:00:00.000Z",
+    "createdAt": "2024-01-11T16:00:00.000Z"
+  },
+  {
+    "Id": 9,
+    "title": "Security audit review",
+    "description": "Review findings from the latest security audit and create action plan for addressing vulnerabilities.",
+    "assigneeId": "7",
+    "priority": "high",
+    "status": "completed",
+    "dueDate": "2024-01-11T17:00:00.000Z",
+    "createdAt": "2024-01-07T10:00:00.000Z"
+  },
+  {
+    "Id": 10,
+    "title": "Marketing campaign analysis",
+    "description": "Analyze performance metrics from the recent marketing campaign and prepare insights report.",
+    "assigneeId": "8",
+    "priority": "low",
+    "status": "todo",
+    "dueDate": "2024-01-18T14:30:00.000Z",
+    "createdAt": "2024-01-10T12:15:00.000Z"
+  },
+  {
+    "Id": 11,
+    "title": "Bug fixes - Mobile app",
+    "description": "Fix critical bugs reported in the mobile application. Priority on login and payment issues.",
+    "assigneeId": "9",
+    "priority": "high",
+    "status": "in_progress",
+    "dueDate": "2024-01-14T18:00:00.000Z",
+    "createdAt": "2024-01-09T14:30:00.000Z"
+  },
+  {
+    "Id": 12,
+    "title": "Team training session",
+    "description": "Organize and conduct training session on new development tools and best practices.",
+    "assigneeId": "10",
+    "priority": "medium",
+    "status": "todo",
+    "dueDate": "2024-01-22T10:00:00.000Z",
+    "createdAt": "2024-01-11T09:45:00.000Z"
+  }
+]
