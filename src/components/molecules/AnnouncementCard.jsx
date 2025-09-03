@@ -6,7 +6,7 @@ import Button from "@/components/atoms/Button";
 import NotificationDot from "@/components/molecules/NotificationDot";
 import ApperIcon from "@/components/ApperIcon";
 import { format } from "date-fns";
-import { cn } from "@/lib/utils";
+import { cn } from "@/utils/cn";
 
 const AnnouncementCard = ({ announcement, onMarkAsRead }) => {
   const getCategoryColor = (category) => {
