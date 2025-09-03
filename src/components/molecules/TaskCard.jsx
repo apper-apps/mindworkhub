@@ -57,7 +57,7 @@ const TaskCard = ({ task, onStatusChange, onEdit, onDelete }) => {
               />
             </button>
             <div className="flex-1 min-w-0">
-              <h3 className={cn(
+<h3 className={cn(
                 "font-medium text-gray-900 text-sm mb-1",
                 task.status === "completed" && "line-through text-gray-500"
               )}>
@@ -74,7 +74,7 @@ const TaskCard = ({ task, onStatusChange, onEdit, onDelete }) => {
                   className={cn("h-3 w-3", getPriorityColor(task.priority))} 
                 />
                 <span>{task.priority} priority</span>
-                {task.dueDate && (
+{task.dueDate && (
                   <>
                     <span>•</span>
                     <span>Due {format(new Date(task.dueDate), "MMM d")}</span>

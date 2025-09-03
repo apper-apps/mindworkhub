@@ -47,7 +47,7 @@ const AnnouncementCard = ({ announcement, onMarkAsRead }) => {
                 by {announcement.author}
               </span>
             </div>
-            <h3 className={cn(
+<h3 className={cn(
               "font-semibold text-gray-900 mb-2",
               !announcement.isRead && "text-primary-900"
             )}>

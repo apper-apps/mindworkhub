@@ -32,7 +32,6 @@ const DashboardWidgets = ({ tasks = [], events = [], announcements = [], employe
     if (!task.dueDate || task.status === "completed") return false;
     return new Date(task.dueDate) < new Date();
   }).length;
-
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
@@ -118,7 +117,7 @@ const DashboardWidgets = ({ tasks = [], events = [], announcements = [], employe
                 <ApperIcon name="Bell" className="h-5 w-5 text-purple-600" />
                 <span className="text-sm font-medium text-purple-900">New Announcements</span>
               </div>
-              <span className="text-lg font-bold text-purple-600">
+<span className="text-lg font-bold text-purple-600">
                 {announcements.filter(a => !a.isRead).length}
               </span>
             </div>
@@ -165,7 +164,7 @@ const DashboardWidgets = ({ tasks = [], events = [], announcements = [], employe
           </div>
           <div className="space-y-3">
             {recentAnnouncements.length > 0 ? (
-              recentAnnouncements.map((announcement) => (
+recentAnnouncements.map((announcement) => (
                 <div key={announcement.Id} className="p-3 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors duration-200">
                   <div className="flex items-start justify-between">
                     <div className="flex-1">

@@ -53,7 +53,7 @@ const CalendarEvent = ({ event, employees = [] }) => {
             />
           </div>
           <div className="flex-1 min-w-0">
-            <h3 className="font-semibold text-gray-900 text-sm mb-1 line-clamp-1">
+<h3 className="font-semibold text-gray-900 text-sm mb-1 line-clamp-1">
               {event.title}
             </h3>
             <div className="flex items-center space-x-2 text-xs text-gray-600 mb-2">
@@ -61,7 +61,7 @@ const CalendarEvent = ({ event, employees = [] }) => {
               <span>
                 {format(new Date(event.startTime), "HH:mm")} - {format(new Date(event.endTime), "HH:mm")}
               </span>
-              {event.location && (
+{event.location && (
                 <>
                   <span>•</span>
                   <ApperIcon name="MapPin" className="h-3 w-3" />
